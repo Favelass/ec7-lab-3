@@ -1,0 +1,3 @@
+condition,detector,n_present,accuracy,family_accuracy,distance_mae_m,bearing_mae_deg,n_other,false_positive_rate,fp_per_minute,latency_ms_median,latency_ms_p90
+even,marker,34,0.971,,0.037,0.06,16,0.0,0.0,2.61,4.04
+even,sign,16,0.625,0.75,0.074,0.05,34,0.206,123.5,3.79,3.87

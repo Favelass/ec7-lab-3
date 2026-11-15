@@ -1,0 +1,5 @@
+# Recorded tested environment: Python 3.9, macOS arm64.
+numpy==1.23.5
+opencv-python-headless==4.11.0.86
+scikit-image==0.24.0
+scikit-learn==1.6.1
