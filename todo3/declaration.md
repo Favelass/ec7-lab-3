@@ -1,20 +1,9 @@
-# AI and collaboration declaration
+AI and collaboration declaration
 
 Frédéric Dardinier - Lab 3
 
-## AI assistance
+- AI assistance
 
-- Tools and models used: [fill in]
-- What AI helped with (code, tests, analysis, writing): [fill in]
-- Prompts, conversation links or exported exchanges: [fill in]
-
-## My contribution
-
-- What I wrote or changed myself: [fill in]
-- What I reviewed and checked, and how: [fill in]
-- What I understand and any remaining difficulties: [fill in]
-- Time spent on my own work: [fill in]
-
-## Collaboration
-
-- People involved and their contribution, or None: [fill in]
+- Tools and models used: Codex gpt 6.1 Sol paid plan, medium and high effort
+- What AI helped with (code, tests, analysis, writing): ai helped me with challenging some of my assumptions, aswell when turning some of my ideas into code, where i got stuck with vocabulary, i also used it to verify my work, and fix bugs that could've been happening, explaining me their origin for steps 4,5,6.
+- Prompts, conversation links or exported exchanges: https://chatgpt.com/s/cx_6afa1d85e8948191b4b0ee912f4d9f93
